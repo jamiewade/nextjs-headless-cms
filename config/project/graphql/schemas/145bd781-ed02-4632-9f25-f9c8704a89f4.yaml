@@ -1,5 +1,5 @@
-isPublic: true
-name: 'Public Schema'
+isPublic: false
+name: 'Blog Posts'
 scope:
   - 'sections.b41debab-7c0f-434c-bbd4-720b16768a47:read' # Blog
   - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:read' # Default
