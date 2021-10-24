@@ -1,0 +1,19 @@
+columnSuffix: xcdabaik
+contentColumnType: string(1200)
+fieldGroup: 1441a512-dcc6-499d-b283-423d6bd2d78e # Content
+handle: summary
+instructions: 'Set the summary text for this element.'
+name: Summary
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: 300
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

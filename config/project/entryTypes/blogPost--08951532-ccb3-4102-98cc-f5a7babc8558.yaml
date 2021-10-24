@@ -26,11 +26,20 @@ fieldLayouts:
             type: craft\fieldlayoutelements\EntryTitleField
             warning: null
             width: 100
+          -
+            fieldUid: 3e7e310b-4ba4-4934-9403-9494a156a415 # Summary
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
         name: Content
         sortOrder: 1
-handle: default
+handle: blogPost
 hasTitleField: true
-name: Default
+name: 'Blog Post'
 section: b41debab-7c0f-434c-bbd4-720b16768a47 # Blog
 sortOrder: 1
 titleFormat: null

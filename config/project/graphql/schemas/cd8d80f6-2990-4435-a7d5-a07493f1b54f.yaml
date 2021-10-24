@@ -2,9 +2,9 @@ isPublic: true
 name: 'Public Schema'
 scope:
   - 'sections.b41debab-7c0f-434c-bbd4-720b16768a47:read' # Blog
-  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:read' # Default
+  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:read' # Blog Post
   - 'sections.b41debab-7c0f-434c-bbd4-720b16768a47:edit' # Blog
-  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:edit' # Default
-  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:create' # Default
-  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:save' # Default
-  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:delete' # Default
+  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:edit' # Blog Post
+  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:create' # Blog Post
+  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:save' # Blog Post
+  - 'entrytypes.08951532-ccb3-4102-98cc-f5a7babc8558:delete' # Blog Post
