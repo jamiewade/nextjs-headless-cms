@@ -1,18 +1,29 @@
-dateModified: 1635098371
+dateModified: 1635147708
 email:
   fromEmail: jamiewade94@icloud.com
   fromName: 'NextJS Headless (CMS)'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    01e6d8f1-d486-46cd-8f6a-041b0c385e29: Text # Text
+    2f62822f-1988-45e3-8f83-21ae822c27d0: 'Content Builder' # Content Builder
     3e7e310b-4ba4-4934-9403-9494a156a415: Summary # Summary
+    6d96e6a9-c170-46b4-bb17-b06549db3830: 'Rich Text' # Rich Text
     0050a0e9-bdcc-4fb3-918e-bc4c1bc3e1cb: 'NextJS Headless (CMS)' # NextJS Headless (CMS)
     145bd781-ed02-4632-9f25-f9c8704a89f4: 'Blog Posts' # Blog Posts
+    993fc0e0-9139-4c80-977b-25a5d4830b7e: Target # Target
     1441a512-dcc6-499d-b283-423d6bd2d78e: Content # Content
     08951532-ccb3-4102-98cc-f5a7babc8558: 'Blog Post' # Blog Post
+    b098212c-45e8-4da0-bb58-ff2debb4c67c: Text # Text
     b41debab-7c0f-434c-bbd4-720b16768a47: Blog # Blog
     cd8d80f6-2990-4435-a7d5-a07493f1b54f: 'Public Schema' # Public Schema
     d10337b6-9ae8-4366-b9bd-e3d44675656c: 'NextJS Headless (CMS)' # NextJS Headless (CMS)
+    f2c1892b-fb8d-4b95-8334-ea4e36d9a1bc: Button # Button
+plugins:
+  redactor:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.3.0
 system:
   edition: pro
   live: true
